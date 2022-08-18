@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <img src="./Cartoonify.png#image" width="100px" />
+  <img src="./Cartoonify.png#image" width="150px" />
 </div>
 
 
