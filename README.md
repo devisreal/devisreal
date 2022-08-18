@@ -1,8 +1,3 @@
-<style>
-  img[src*="#image"] {
-    border-radius: 50%;
-  }
-</style>
 <br />
 <div align="center">
   <img src="./Cartoonify.png#image" width="100px" />
