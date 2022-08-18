@@ -1,5 +1,5 @@
 <br />
-<div style="width: 150px;margin: 0 auto !important;">
+<div style="width: 100px;margin: 0 auto !important;">
   <img src="./Cartoonify.png" style="border-radius: 50%;" />
 </div>
 
