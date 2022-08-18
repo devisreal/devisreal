@@ -1,6 +1,6 @@
 <br />
 <div style="width: 100px;margin: 0 auto !important;">
-  <img src="./Cartoonify.png" style="border-radius: 50%;" />
+  <img src="./Cartoonify.png" width="100px" style="border-radius: 50%;" />
 </div>
 
 <br />
