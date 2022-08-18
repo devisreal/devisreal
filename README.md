@@ -1,7 +1,13 @@
+<style>
+  img[src*="#image"] {
+    border-radius: 50%;
+  }
+</style>
 <br />
 <div align="center">
-  <img src="./Cartoonify.png" width="100px" style="border-radius: 50%;" />
+  <img src="./Cartoonify.png#image" width="100px" />
 </div>
+
 
 <br />
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
