@@ -7,7 +7,7 @@
 <br />
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px">, I'm Israel</h1>
-<h3 align="center">An upcoming Full Stack Developer with a passion for building web applications.</h3>
+<h3 align="center">A Full Stack Developer with a passion for building web applications.</h3>
 <br />
 <br />
 
