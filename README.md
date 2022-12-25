@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m a semester 4 student at **<a href="https://www.aptechota.com.ng" target="_blank">Aptech Computer Education,
+- 👨‍🎓 I’m an instructor at **<a href="https://www.aptechota.com.ng" target="_blank">Aptech Computer Education,
   Ota</a>**
 
 - 📕 I'm currently extending my knowledge in python's django framework.
