@@ -15,7 +15,7 @@
 
 - 👨‍🎓 I am a tech instructor and fullstack web developer
 
-- 📕 I am currently extending my knowledge in python's django framework.
+- 📕 I am currently extending my knowledge in reactjs, django and django-rest-framework.
 
 - 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
