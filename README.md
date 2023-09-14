@@ -13,12 +13,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m an instructor at **<a href="https://www.aptechota.com.ng" target="_blank">Aptech Computer Education,
-  Ota</a>**
+- 👨‍🎓 I am a tech instructor and fullstack web developer
 
-- 📕 I'm currently extending my knowledge in python's django framework.
+- 📕 I am currently extending my knowledge in python's django framework.
 
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
 - 💼 Job interests: Software Engineer, Fullstack devloper.
 
