@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <img src="./AREmoji_20231023_153635_959.png" width="150px" />
+  <img src="./AREmoji_20231023_154012.jpg" width="150px" />
 </div>
 
 
