@@ -13,9 +13,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I am a tech instructor and fullstack web developer
+- 👨‍🎓 I am a software engineer and fullstack web developer
 
-- 📕 I am currently extending my knowledge in reactjs, django and django-rest-framework.
+- 📕 I am currently building software with reactjs and learning new technolgies like NodeJs, MongoDB.
 
 - 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
@@ -96,8 +96,8 @@
 
   <a href="https://www.linkedin.com/in/israel-akinoso"><img
     src="https://img.icons8.com/fluent/40/000000/linkedin.png" /></a>
-  <a href="https://twitter.com/akinoso_israel"><img src="https://img.icons8.com/fluent/40/000000/twitter.png" /></a>
-  <a href="https://www.instagram.com/israel_akinoso/"><img
+  <a href="https://twitter.com/devisrael_"><img src="https://img.icons8.com/fluent/40/000000/twitter.png" /></a>
+  <a href="https://www.instagram.com/devisrael_/"><img
       src="https://img.icons8.com/fluent/40/000000/instagram-new.png" /></a>
   <a href="https://dev.to/devisrael">
     <img src="https://img.icons8.com/color/40/000000/link.png" /></a>
