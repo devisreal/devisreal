@@ -15,11 +15,11 @@
 
 - 👨‍🎓 I am a software engineer and fullstack web developer
 
-- 📕 I am currently building software with reactjs and learning new technolgies like NodeJs, MongoDB.
+- 📕 I am currently building software with TypeScript, ReactJS, Node.js and Express and learning new paradigms like system design and it's importance.
 
 - 😊 I am looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
-- 💼 Job interests: Software Engineer, Fullstack devloper.
+- 💼 Job interests: Software Engineer, Fullstack Devloper, Frontend Developer, Backend Developer.
 
 - 📫 How to reach me **akinosoissy@gmail.com**
 <br />
